@@ -1,0 +1,202 @@
+/* CSS Document */
+
+h1{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size:16pt;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #7A2929;
+	}
+
+h2{
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	text-transform: uppercase;
+	color: #7A2929;
+	}
+
+h3{
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;	
+	}
+	
+text2{ 
+		text-align: center;
+		font-family: times, serif; 
+		font-size:18pt; 
+	}
+
+.texto{
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;	
+}
+
+.texto2{
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #990000;	
+}
+
+.texto3{
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #000000;	
+}
+
+.colorcelda {
+	background-color: #66CCFF;
+}
+
+.colorcelda2 {
+	background-color: #0099FF;
+
+}
+.colorcelda3 {
+	background-color: #999999;
+}
+
+.select{
+     background: transparent;
+     border-radius: 5px 5px 5px 5px;
+	 font-size: 12px;
+     height: 25px;
+     padding: 2px;
+     width: 120px;
+  }
+  
+.select2{
+     background: transparent;
+	 border-radius: 5px 5px 5px 5px;
+     font-size: 12px;
+     height: 25px;
+     padding: 2px;
+     width: 80px;
+  }
+  
+.input {
+   	background: #FFF;
+   	border: 1px solid #333;
+   	border-radius: 5px 5px 5px 5px;
+   	color: #393939;
+   	font-size: 12px;
+   	padding: 3px;
+	height: 23px;
+	width:50px;
+	text-align: center;
+	}
+	
+.input2 {
+   	background: #FFF;
+   	border: 1px solid #333;
+   	border-radius: 5px 5px 5px 5px;
+   	color: #393939;
+   	font-size: 18px;
+   	padding: 3px;
+	height: 30px;
+	width:200px;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.input3 {
+   	background: #FFF;
+   	border: 1px solid #333;
+   	border-radius: 5px 5px 5px 5px;
+   	color: #393939;
+   	font-size: 16px;
+   	padding: 3px;
+	height: 40px;
+	width:55px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	}
+	
+.input4 {
+   	background: #FFF;
+   	border: 1px solid #333;
+   	border-radius: 5px 5px 5px 5px;
+   	color: #393939;
+   	font-size: 16px;
+   	padding: 3px;
+	height: 35px;
+	width:50px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	}
+
+.input5 {
+   	background: #FFF;
+   	border: 1px solid #333;
+   	border-radius: 5px 5px 5px 5px;
+   	color: #393939;
+   	font-size: 16px;
+   	padding: 3px;
+	height: 35px;
+	width:35px;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-weight: bold;
+	}
+	
+.botton {
+	 font-size:10px;
+     font-family:Verdana,Helvetica;
+     font-weight:bold;
+     color:white;
+     background:#00467F;
+     border:0px;
+     width:80px;
+     height:20px;
+}
+
+.botton:hover{
+     background:#CE9944;
+	 font-size:10px;
+     font-family:Verdana,Helvetica;
+     font-weight:bold;
+     color:white;
+     border:0px;
+     width:80px;
+     height:20px;
+	}
+
+.texto4{
+	font-family: "Times New Roman", Times, serif;
+	font-size:12pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #FFFFFF;	
+}
+
+.select3{
+     border-radius: 5px 5px 5px 5px;
+	 font-size: 14px;
+     height: 25px;
+     padding: 2px;
+     width: 120px;
+	 color: #393939;
+	 font-style: italic;
+	 font-weight: bold;
+	 font-family: "Times New Roman", Times, serif;
+  }
